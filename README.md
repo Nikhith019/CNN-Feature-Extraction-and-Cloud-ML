@@ -1,15 +1,3 @@
-# Neural_Home_Assignemnt-2
-
-## Student details:
-
-Name : Nikhith Raju Konduru
-
-700  : 700756171
-
-CRN  : 23849
-
-To run the tasks clone this repo and run it in the anaconda-jupyter notebook(pref) with essential librabries.
-
 ## Explanation of Tasks
 
 Question 1: Cloud Computing for Deep Learning
@@ -30,7 +18,3 @@ Pooling Operations: Demonstrates Max and Average pooling on a random 4×4 matrix
 Question 4: CNN Architectures
 AlexNet: Implements a deep CNN with multiple Conv2D, MaxPooling, Dense, and Dropout layers to classify images.
 ResNet-like Model: Uses residual blocks (skip connections) to improve deep network training, reducing vanishing gradients.
-
-## Video Link
-
-https://drive.google.com/file/d/1yRvV1OrEzKnvUxank4o2hbVrQxgmP_lu/view?usp=share_link
